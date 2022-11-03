@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IhCararts
+- 👀 I’m interested in starting to make a game.
+- 🌱 I’m currently learning Godot, but i'm very new to the program and platform.
+- 📫 How to reach me on Instagram and Twitter @Ih_Cararts
+- 
